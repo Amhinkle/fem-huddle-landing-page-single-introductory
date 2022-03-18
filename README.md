@@ -10,7 +10,7 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Link
-- Live Site URL: [here](https://your-live-site-url.com)
+- Live Site URL: [here](https://huddle-landing-single-intro.netlify.app/)
 
 ### Built with
 
